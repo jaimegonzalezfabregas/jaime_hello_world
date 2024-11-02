@@ -107,9 +107,7 @@ dependencies = [
 
 [[package]]
 name = "jaime"
-version = "1.0.0"
-source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "429fada69f3125bf97350e803ab801db638dc3903e942ae39175521f6047efb8"
+version = "2.0.0"
 dependencies = [
  "indicatif",
  "rand",
