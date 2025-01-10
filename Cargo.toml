@@ -4,5 +4,5 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-jaime = "2.0.0"
+jaime = "2.1.1"
 # jaime = { path = "../engine" }
